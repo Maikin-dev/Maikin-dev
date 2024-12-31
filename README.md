@@ -12,7 +12,7 @@
 - :computer: I am an enthusiastic programmer 
 - :student: I’m currently studying `Software Development`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: I’m currently open for a new `job opportunity`
 
 
 <hr>
