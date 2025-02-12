@@ -38,7 +38,11 @@
 <hr>
 <h1>Certifications 🏆</h1>
   
-![FrontEndDevUdemy](https://github.com/user-attachments/assets/bda52224-ee86-40fb-b28b-f9b0aa3a6d7f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bda52224-ee86-40fb-b28b-f9b0aa3a6d7f" width="700">
+  <img src="https://github.com/user-attachments/assets/843a2482-b5f0-41d3-b793-3b17694bfd07" width="700">
+</p>
+
  
 <hr>
 <h1 align="center">Get in Touch! 📬</h1>
