@@ -12,7 +12,7 @@
 - :computer: I am an enthusiastic programmer 
 - :student: I’m currently studying `Software Development`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity` this is my [RESUME(EN)](https://maikin-dev.github.io/CV---EN/) / [RESUMEN(ES)](https://maikin-dev.github.io/CV/)
+- :thinking: I’m currently open for a new `job opportunity` this is my [CV (ENG)](https://maikin-dev.github.io/CV---EN/) / [CV (ESP)](https://maikin-dev.github.io/CV/)
 
 
 <hr>
